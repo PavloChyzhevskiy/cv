@@ -36,5 +36,16 @@ a:hover{
   position relative;
   width: 175px;
   height: 175px;
+
+}
+nav {
+  font-size: 2em;
+text-align: center;
+
+
+}
+nav a{
+  margin-left: 5%;
+  margin-right: 5%;
   
 }
